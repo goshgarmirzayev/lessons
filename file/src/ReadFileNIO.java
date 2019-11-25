@@ -1,7 +1,7 @@
 import java.nio.file.*;
 
 public class ReadFileNIO {
-
+salam test3
     public static String readFileAsString(String fileName)throws Exception
     {
         byte[] data= readFileAsByte(fileName);
