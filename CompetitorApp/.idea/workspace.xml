@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ac879ac-1caa-4b78-a9ad-bf286f517fd2" name="Default Changelist" comment="" />
+    <list default="true" id="4ac879ac-1caa-4b78-a9ad-bf286f517fd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/competitors.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitorApp/META-INF/CompetitorApp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitorApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitorApp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitorApp/Util/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitorApp/Util/FileUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Util/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Util/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../file/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../file/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/out/production/file/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../file/out/production/file/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/out/production/file/ReadFileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../file/out/production/file/ReadFileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/out/production/file/WriteToFileExampleIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../file/out/production/file/WriteToFileExampleIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../file/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/src/ReadFileNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../file/src/ReadFileNIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/src/WriteToFileExampleIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../file/src/WriteToFileExampleIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/src/WriteToFileExampleNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../file/src/WriteToFileExampleNIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/test" beforeDir="false" afterPath="$PROJECT_DIR$/../file/test" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +40,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lessons" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1UZklOjNwdw4CapV76JLEDpjvO1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +96,7 @@
       <workItem from="1575571659276" duration="12468000" />
       <workItem from="1575648887216" duration="16507000" />
       <workItem from="1575977451550" duration="15359000" />
+      <workItem from="1577612252409" duration="3994000" />
     </task>
     <servers />
   </component>
@@ -84,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
